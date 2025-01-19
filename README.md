@@ -7,10 +7,10 @@ The TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) meth
 ---
 
 ## PyPI Package
-This implementation is available as a Python package on [`https://pypi.org/project/Topsis-Soumya-102203802/1.0.0/`](https://pypi.org/project/Topsis-Soumya-102203802/1.0.0/). You can easily install it via `pip`:
+This implementation is available as a Python package on [`https://pypi.org/project/Topsis-Soumya-102203802/1.0.2/`](https://pypi.org/project/Topsis-Soumya-102203802/1.0.2/). You can easily install it via `pip`:
 
 ```bash
-pip install Topsis-Soumya-102203802==1.0.0
+pip install Topsis-Soumya-102203802==1.0.2
 ```
 ---
 
