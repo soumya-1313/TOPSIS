@@ -1,0 +1,6 @@
+## PYTHON PACKAGE UPLOAD ON PYPI
+#link
+https://pypi.org/project/Topsis-Soumya-102203802/1.0.2/
+```bash
+pip install Topsis-Soumya-102203802==1.0.2
+```
